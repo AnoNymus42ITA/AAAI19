@@ -2,7 +2,7 @@
 ## A Combinatorial Framework for Focusing Topic Modeling Results
 ### Data
 
-the Huffington Post RSS feeds (US version) from June the 20th until Sept. the 8th, 2016. Each article is considered a document in the corpus, which is challenging as there are articles ona wide variety of topics: i.e. sports, politics and even life style (i.e. cooking). We use the LDA model (Blei et al., 2003) using the MALLET tool (http://mallet.cs.umass.edu). Unless otherwise stated, we used k = 100 topics.
+The Huffington Post RSS feeds (US version) from June the 20th until Sept. the 8th, 2016. Each article is considered a document in the corpus, which is challenging as there are articles ona wide variety of topics: i.e. sports, politics and even life style (i.e. cooking). We use the LDA model (Blei et al., 2003) using the MALLET tool (http://mallet.cs.umass.edu). Unless otherwise stated, we used k = 100 topics.
 
 As the right to release the data is restricted, we provide the output of the algorithm only. It is organized as follows :
 
