@@ -1,4 +1,4 @@
-# EMNLP2018
+# AAAI 2019
 ## A Combinatorial Framework for Focusing Topic Modeling Results
 ### Data
 
